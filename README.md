@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anjali040507123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjali040507123/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anjali040507123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anjali040507123/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Anjali040507123/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anjali040507123/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
