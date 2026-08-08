@@ -16,23 +16,19 @@ public:
             return head;
         }
         ListNode* temp=head;
-        while(temp!=NULL){
+        while(temp!=NULL && temp->next!=NULL){
             arr.push_back(temp->val);
-           if (temp->next != NULL)
-                temp = temp->next->next;
-            else
-                break;
+            temp=temp->next->next;
         }
+        if(temp) arr.push_back(temp->val);
         temp=head->next;
-        while(temp!=NULL){
+        while(temp!=NULL && temp->next!=NULL){
             arr.push_back(temp->val);
-            if (temp->next != NULL)
-                temp = temp->next->next;
-            else
-                break;
+            temp=temp->next->next;
         }
-        int i=0;
+        if(temp) arr.push_back(temp->val);
         temp=head;
+        int i=0;
         while(temp!=NULL){
             temp->val=arr[i];
             i++;
